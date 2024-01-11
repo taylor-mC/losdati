@@ -16,7 +16,7 @@
 </title>
 
     <meta name="robots" content="index,follow" />
-    <meta property="og:title" content="Hello World!" />
+    <meta property="og:title" content="help" />
     
     <!-- import the webpage's stylesheet -->
     <link rel="stylesheet" href="/style.css" />
